@@ -83,8 +83,54 @@ The dataset contains:
 
 ## 📸 Dashboard Preview
 
-(Add screenshots here after uploading images to GitHub)
+ ## 📸 Dashboard Preview
 
+### 🏠 Home Dashboard
+
+<p align="center">
+  <img src="screenshots/Screenshot%202026-05-23%20225608.png" width="100%" alt="Spotify Home Dashboard"/>
+</p>
+
+<p align="center">
+Spotify-inspired landing page with modern navigation buttons and premium dark UI design.
+</p>
+
+---
+
+### 📈 Overview Dashboard
+
+<p align="center">
+  <img src="screenshots/Screenshot%202026-05-23%20225625.png" width="100%" alt="Spotify Overview Dashboard"/>
+</p>
+
+<p align="center">
+Overview page displaying KPI cards, popularity insights, album analysis, and trend visualizations.
+</p>
+
+---
+
+### 🎤 Artists Dashboard
+
+<p align="center">
+  <img src="screenshots/Screenshot%202026-05-23%20225634.png" width="100%" alt="Spotify Artists Dashboard"/>
+</p>
+
+<p align="center">
+Artist analytics dashboard featuring popularity analysis, top-performing artists, and detailed artist metrics.
+</p>
+
+---
+
+### 🎶 Songs Dashboard
+
+<p align="center">
+  <img src="screenshots/Screenshot%202026-05-23%20225650.png" width="100%" alt="Spotify Songs Dashboard"/>
+</p>
+
+<p align="center">
+Songs analysis dashboard showing top songs, popularity insights, and album-based song statistics.
+</p>
+      
 ---
 
 ## 🚀 How to Use
@@ -96,17 +142,3 @@ The dataset contains:
 
 ---
 
-## 📁 Project Structure
-
-```bash
-Spotify-Dashboard/
-│
-├── Spotify_dashboard.pbix
-├── README.md
-├── screenshots/
-│   ├── home.png
-│   ├── overview.png
-│   ├── artists.png
-│   └── songs.png
-└── dataset/
-    └── spotify_data.csv
